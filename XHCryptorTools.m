@@ -3,7 +3,7 @@
 //  加密/解密工具
 //
 //  Created by XHTeng on 15/4/26.
-//  Copyright (c) 2015年 joyios. All rights reserved.
+//  Copyright (c) 2015年 XHTeng. All rights reserved.
 //
 
 #import "XHCryptorTools.h"
