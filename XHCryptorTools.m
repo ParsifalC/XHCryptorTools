@@ -1,5 +1,5 @@
 //
-//  CryptorTools.m
+//  XHCryptorTools.m
 //  加密/解密工具
 //
 //  Created by XHTeng on 15/4/26.
