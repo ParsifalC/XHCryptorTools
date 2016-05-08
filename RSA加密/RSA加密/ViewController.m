@@ -3,7 +3,7 @@
 //  RSA加密
 //
 //  Created by basic_10 on 16/5/3.
-//  Copyright © 2016年 heima. All rights reserved.
+//  Copyright © 2016年 XHTeng. All rights reserved.
 //
 
 #import "ViewController.h"
